@@ -277,8 +277,8 @@ a:focus {
 }
 
 .hero-logos img {
-    max-height: 56px;
-    max-width: 160px;
+    max-height: 112px;
+    max-width: 320px;
     background: rgba(255, 255, 255, 0.92);
     border-radius: 0.85rem;
     padding: 0.6rem 0.9rem;
@@ -949,6 +949,7 @@ a:focus {
     }
 
 }
+
 
 
 
