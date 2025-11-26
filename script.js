@@ -19,7 +19,7 @@ if (toggle && navLinks) {
   });
 }
 
-const countdownTarget = new Date("2026-03-19T09:00:00+05:30");
+const countdownTarget = new Date("2026-04-09T09:00:00+05:30");
 const dayEl = document.getElementById("days");
 const hourEl = document.getElementById("hours");
 const minuteEl = document.getElementById("minutes");
@@ -78,3 +78,4 @@ if (!prefersReducedMotion.matches) {
     element.classList.add("is-visible");
   });
 }
+
